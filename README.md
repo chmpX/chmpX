@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chmpX
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning 
